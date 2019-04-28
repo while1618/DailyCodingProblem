@@ -8,6 +8,3 @@
 #
 # Do this in O(M + N) time (where M and N are the lengths of the lists) and constant space.
 
-
-A = [3, 7, 8, 10]
-B = [99, 1, 8, 10]
